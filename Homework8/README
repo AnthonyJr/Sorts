@@ -1,0 +1,29 @@
+Anthony Snow 
+
+my program can be compiled on any machine with c++ standard library tools. 
+
+Once ran, it will ask you how do you want to generate numbers. It can be randomly, manually, reverse order up to n, or swap consectutive pairs up to n. 
+
+The next screen will ask what sort you would like to use. All my sorting functions work
+
+On average, the numbers I got were: 
+
+Selection Sort was n - l 
+Insertion sort was n^2
+Quicksort was n^2 
+mergersort was nlogn
+
+
+
+For the most part, i feel like my data agrees with what we discussed in class. 
+
+My functions work perfectly fine and they sort vectors. I also added the option to pick the number of digits and manipulate n. 
+
+
+
+
+
+*** Added 12/7/16 ****** 
+I noticed you said my program had errors? what errors did I have? It runs perfectly on my side. 
+
+*************
